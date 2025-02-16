@@ -1,0 +1,5 @@
+echo "\n 🔍 Running Prettier and ESLint before commit..."
+
+npm run format
+
+echo "\n\n✅ completed Prettier and ESLint ...\n\n"
